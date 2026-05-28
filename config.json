@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvync",
+        "uuid": 4415481,
+        "checksum": "ckdcat"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
